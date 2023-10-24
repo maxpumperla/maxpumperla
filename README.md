@@ -2,7 +2,7 @@
 
 I’m a Data Science & Engineering practitioner from Hamburg, Germany. I’m an avid open source contributor, author of [machine learning & technology books](https://www.amazon.com/Max-Pumperla/e/B0785XFDL7/ref=dp_byline_cont_pop_book_1), speaker and [Coursera instructor](https://www.coursera.org/learn/ai/home/welcome).
 
-I specialize in Deep Learning and its applications and can build machine learning solutions and data products from first prototype to production. As [Ray contributor](https://github.com/ray-project/ray/), [DL4J core developer],(https://github.com/eclipse/deeplearning4j), [Keras contributor](https://github.com/keras-team/keras/graphs/contributors), [Hyperopt](https://github.com/hyperopt/hyperopt) maintainer and author of a range of open source libraries, I have a distinct view on ML engineering and the data science ecosystem.
+I specialize in Deep Learning and its applications and can build machine learning solutions and data products from first prototype to production. As [Ray contributor](https://github.com/ray-project/ray/), [DL4J core developer](https://github.com/eclipse/deeplearning4j), [Keras contributor](https://github.com/keras-team/keras/graphs/contributors), [Hyperopt](https://github.com/hyperopt/hyperopt) maintainer and author of a range of open source libraries, I have a distinct view on ML engineering and the data science ecosystem.
 
 ### Here's what I'm up to right now
 
