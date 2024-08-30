@@ -7,11 +7,10 @@ As an engineer, I specialize in Deep Learning and its applications and can build
 ### Here's what I'm up to right now
 
 - 🔭 My primary focus is on [building companies](http://unbounded.limited) I want to own and run, with people I value, solving problems I care about.
-- Our goal is to make startups uncool again, one small successful company at a time. We are fully bootstrapped and have no plans to raise VC money. 
 - 🔭 We currently build the next generation of language learning apps at [lingonook](https://lingonook.com).
 - 🔭 At [ganzda](https://ganzda.de) we aim to bring meditation practice to the German market.
 - 🔭 At [gradefast](https://gradefa.st) and [schnellkorrigiert](https://schnellkorrigiert.de) we help teachers save valuable time spent on corrections.
-- Reach out to me if you seek a technical partner or need advise building your own startups.
+- 🔭 Reach out to me if you seek a technical partner or need advise building your own startups.
 
 ### Projects you might like
 
