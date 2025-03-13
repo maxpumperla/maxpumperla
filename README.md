@@ -6,7 +6,8 @@ As an engineer, I specialize in Deep Learning and its applications and can build
 
 ### Here's what I'm up to right now
 
-- 🔭 My primary focus is on [building companies](http://unbounded.limited) I want to own and run, with people I value, solving problems I care about.
+- 🔭 My primary focus is on [building companies](http://manyfoldlabs.com) I want to own and run, with people I value, solving problems I care about.
+- 🔭 At [Savant Poker](https://savantpoker.com) we make learning poker simple.
 - 🔭 We currently build the next generation of language learning apps at [lingonook](https://lingonook.com).
 - 🔭 At [ganzda](https://ganzda.de) we aim to bring meditation practice to the German market.
 - 🔭 At [gradefast](https://gradefa.st) and [schnellkorrigiert](https://schnellkorrigiert.de) we help teachers save valuable time spent on corrections.
